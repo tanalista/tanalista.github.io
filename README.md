@@ -1,2 +1,2 @@
-# tanalista.github.io
+# https://tanalista.github.io/
 App Tá na lista
